@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=varundeepakgudhe)](https://github.com/varundeepakgudhe/github-profile-trophy)
 
 <!--
 **varundeepakgudhe/varundeepakgudhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github-profile-trophy.vercel.app/?username=varundeepakgudhe&theme=buddhism
 -->
