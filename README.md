@@ -28,11 +28,25 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varundeepakgudhe&show_icons=true&locale=en&layout=compact" alt="varundeepakgudhe" /></p>
 -->
+
+<p>
+  <h3>My Contributions graph</h3>
+  <div align="center">
+  <img alt="snak eating my contributions in the graph" src="https://github.com/varundeepakgudhe/varundeepakgudhe/blob/output/github-contribution-grid-snake.svg">
+  </div>
+  <br/>
+</p>
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varundeepakgudhe&show_icons=true&locale=en" alt="varundeepakgudhe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varundeepakgudhe&" alt="varundeepakgudhe" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=varundeepakgudhe)](https://github.com/varundeepakgudhe/github-profile-trophy)
+
+
+
 
 <!--
 **varundeepakgudhe/varundeepakgudhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
