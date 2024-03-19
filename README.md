@@ -37,9 +37,9 @@
 
  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varundeepakgudhe&show_icons=true&locale=en&layout=compact" alt="varundeepakgudhe" /></p>
-
+<br><br><br><br><br><br>
 <p>
-  <h3>My Contributions graph</h3>
+  <h3 align="center">My Contributions graph</h3>
   <div align="center">
   <img alt="Snake eating my contributions in the graph" src="https://github.com/varundeepakgudhe/varundeepakgudhe/blob/output/github-contribution-grid-snake.svg">
   </div>
