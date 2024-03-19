@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Deepak Gudhe</h1>
 <h3 align="center">A passionate Data Scientist and AI Enthusiast</h3>
-<img align="right" alt="coding" width=400 src="https://github.com/varundeepakgudhe/varundeepakgudhe/assets/112991463/02a842ba-6cbf-4ded-8c34-a70ce08a5cea">
-
+<!-- <img align="right" alt="coding" width=400 src="https://github.com/varundeepakgudhe/varundeepakgudhe/assets/112991463/02a842ba-6cbf-4ded-8c34-a70ce08a5cea">
+ -->
+<img align="right" alt="coding" width=400 src="https://github.com/varundeepakgudhe/varundeepakgudhe/assets/112991463/20d662e7-7222-4ee1-9a0e-880825577123">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varundeepakgudhe&label=Profile%20views&color=0e75b6&style=flat" alt="varundeepakgudhe" /> </p>
 
 - 🔭 I’m currently working on **various aspects of data science, including DNA and protein sequence analysis**
